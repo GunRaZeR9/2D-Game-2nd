@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055e23334e174284499c57dfba82a8ea, type: 3}
+  m_Name: GoblinData
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  armourPoints: 50
+  attackRange: 0.45
+  speed: 2
+  agroRange: 3.5
+  damage: 30
+  dead_prefab: {fileID: 8712562332823079689, guid: d8ee6536730e50b47889eb256ea27e8b,
+    type: 3}
